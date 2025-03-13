@@ -42,6 +42,16 @@ AWS Lambda runs the chatbot logic. Follow these steps to deploy:
 
 📌 **Refer to images:**  
 📷 `lambda-one.png` | 📷 `lambda-two` | 📷 `lambda-three.png` | 📷 `lambda-four.png` | 📷 `lambda-five.png`
+1
+![Lambda Function Creation](./lambda-one.png)
+2
+![Lambda Function Creation](./lambda-two.png)
+3
+![Lambda Function Creation](./lambda-three.png)
+4
+![Lambda Function Creation](./lambda-four.png)
+5
+![Lambda Function Creation](./lambda-five.png)
 
 ### **🔹 Step 2: Add Your Lambda Code**
 - Open the **AWS Lambda Console**, select your function.
@@ -291,6 +301,14 @@ AWS IAM allows secure access control.
 
 📌 **Refer to images:**  
 📷 `IAM-one.png` | 📷 `IAM-two.png` | 📷 `IAM-three.png` | 📷 `IAM-four.png`
+1
+![IAM Role Setup](./IAM-one.png)
+2
+![IAM Policy Assignment](./IAM-two.png)
+3
+![IAM Policy Assignment](./IAM-three.png)
+4
+![IAM Policy Assignment](./IAM-four.png)
 
 ---
 
@@ -383,7 +401,12 @@ demo.launch(share=True)
 
 📌 **Refer to images:**  
 📷 `kendra-one.png` | 📷 `kendra-two.png` | 📷 `kendra-three.png`
-
+1
+![Kendra Index Setup](./kendra-one.png)
+2
+![Kendra Index Setup](./kendra-two.png)
+3
+![Kendra Index Setup](./kendra-three.png)
 ---
 
 # **💻 Running the Chatbot Locally**
