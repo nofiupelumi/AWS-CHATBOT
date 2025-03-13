@@ -455,7 +455,9 @@ MIT License. Feel free to modify and use.
 
 # **🚀 Contributors**
 - **[Nofiu Moruf Pelumi]** - Developer  
-- **[Ojugbele Daniel Babatunde]** - Support  
+- **[Ojugbele Daniel Babatunde]** - Support
+- - **[Peldargacdemy Team]** - Support
+- - **[Ibukun Olomiyesan]** -Owner
 
 ---
 
